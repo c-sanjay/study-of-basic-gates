@@ -83,7 +83,8 @@ endmodule
 **RTL realization Output:** 
 
 **RTL**:
-![Screenshot 2024-08-29 090650](https://github.com/user-attachments/assets/785b91ee-322b-4fb4-bbd0-d31f869a8a27)
+![image](https://github.com/user-attachments/assets/f1a05bdc-9d03-4aec-8044-280ebe5ad359)
+
 
 
 **Result:**The program is verified successfully using the software quartus prime.
