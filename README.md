@@ -86,7 +86,7 @@ endmodule
 
 ![Screenshot 2024-08-29 165530](https://github.com/user-attachments/assets/84d33ae1-2ed5-4f17-8aff-2e8a44f20671)
 
-**Result:**:
+**Result:**
 The program is verified successfully using the software quartus prime.
 
 
